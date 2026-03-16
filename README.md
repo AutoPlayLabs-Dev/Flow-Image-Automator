@@ -40,8 +40,11 @@ Best for: Scene-based storytelling, cinematic storyboards, or multi-frame animat
 
 ### 🛠️ Advanced Tools
 * **Prompt Queue Manager:** The Processing Settings act as your central command hub for fine-tuning performance and output. Use Stealth Mode and Random Delay to mimic human behavior and avoid rate limits, while Auto Clear Cache optimizes memory to keep your browser fast during large-scale batches. With Auto Download, your assets are saved instantly, and you retain full creative control by globally configuring your preferred AI Model, Aspect Ratio, and Images per Prompt for a seamless, professional, and hands-free generation experience.
+ 
 * **Start Automation:** Transform your workflow into a hands-free experience with a single click. Once activated, Start Automation takes full control—automatically feeding prompts, uploading reference images, generating your visuals, and handling all downloads. By eliminating repetitive manual inputs and monitoring, this feature allows you to scale your production to hundreds of high-quality images effortlessly while you focus on your next creative breakthrough.
+
 * **Content Downloader:** Simplify your post-generation workflow with the Content Download Manager. This tool provides a centralized panel to view all your finished assets, allowing you to select and download hundreds of images in a single batch. By eliminating the need for individual saving, it ensures that managing large volumes of content is fast, organized, and effortless.
+  
 * **AI Prompt Creator:** The AI Prompt Creator is your built-in brainstorming partner for overcoming creative blocks. This feature provides an extensive list of prompt ideas designed to inspire unique and high-quality visuals.
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/0ba6f002c641c10a39d785d5d87dd0e9088dca2b/fia3.png)  ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/ae84eb865c77fc976858c62b21a6c94610ed46f9/fia4.png)
@@ -63,11 +66,11 @@ Best for: Scene-based storytelling, cinematic storyboards, or multi-frame animat
 ## 📖 How It Works
 
 1.  **Open the Side pannel:** Click the Flow Image Automator icon in your browser toolbar to open the side panel directly within your generation workspace.
-2.  **Select Your Mode:** Choose the method that fits your project: Text-to-Image, Integration mode, or Paired mode.
-3.  **Build Your Queue:** Use the AI Prompt Creator to generate high-quality prompts from simple ideas, or paste your existing lists. If using reference-based modes, upload your images into the Queue Manager to pair them with their corresponding prompts.
-4.  **Configure & Start:** Adjust your Processing Settings (such as model, aspect ratio, and stealth parameters) to your preference. Once everything is set, click "Start Automation" to trigger the engine. The extension will automatically handle prompt inputs, image uploads, and parameter selection.
-5.  **Run Automation:** Click **"Start Automation"**. The extension will navigate the generation platform and input your prompts automatically.
-6.  **Effortless Export:** Once the generation finishes, access your results through the Content Download Manager. Simply select your desired assets and download them in a single, organized batch.
+3.  **Select Your Mode:** Choose the method that fits your project: Text-to-Image, Integration mode, or Paired mode.
+4.  **Build Your Queue:** Use the AI Prompt Creator to generate high-quality prompts from simple ideas, or paste your existing lists. If using reference-based modes, upload your images into the Queue Manager to pair them with their corresponding prompts.
+5.  **Configure & Start:** Adjust your Processing Settings (such as model, aspect ratio, and stealth parameters) to your preference. Once everything is set, click "Start Automation" to trigger the engine. The extension will automatically handle prompt inputs, image uploads, and parameter selection.
+6.  **Run Automation:** Click **"Start Automation"**. The extension will navigate the generation platform and input your prompts automatically.
+7.  **Effortless Export:** Once the generation finishes, access your results through the Content Download Manager. Simply select your desired assets and download them in a single, organized batch.
 ---
 
 ## 💡 Best Practices
