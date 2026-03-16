@@ -7,7 +7,9 @@
 
 ---
 
-## 🚀 About This Tool
+## 📖 INTRODUCTION 
+
+Flow Image Automator (V2.0) is the ultimate prompt automation extension designed specifically for Google Flow. If you’re tired of manually entering prompts, uploading references, and downloading images one by one, this tool is for you. It automates your entire AI image generation workflow, allowing you to generate hundreds of images with minimal manual effort.
 Flow Image Automator acts as a bridge between your creative ideas and AI generation platforms. It eliminates the repetitive task of manual prompt entry, allowing you to queue dozens of ideas and let the automation handle the rest.
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/689c6efc0e8675bc3c1bd39933e23ecfafc53b46/fi1.png)
@@ -16,9 +18,9 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 ## ✨ Key Features
 
 ### 🎨 Image Generation Modes
-* **Text to Image:** Generate high-quality visuals directly from descriptive text prompts.
-* **Integration to Image:** Seamlessly blend existing assets with AI generation.
-* **Paired to Image:** Use reference images and text pairs for precise stylistic control.
+* **Text to Image:** Generate high-quality visuals using text prompts. Supports list uploads, copy-paste, and multi-line/JSON formats.
+* **Integration Mode:** Generate images by combining multiple reference images with custom prompts to maintain visual consistency.
+* **Paired Mode:** Assign specific, individual prompts to multiple reference images. Perfect for scene-based content, storytelling.
 
 ### 🛠️ Advanced Tools
 * **Prompt Queue Manager:** Organize and sequence your prompts. No more waiting for one image to finish before typing the next.
