@@ -24,7 +24,6 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 Each mode is optimized for specific creative requirements:
 
 * **Text to Image (Standard Batching):**
-
 Generate high-fidelity visuals directly from text.
 Flexibility: Fully supports single-line, multi-line, and JSON-formatted prompts for complex parameter control.
 Best for: Rapid prototyping and generating large sets of experimental variations.
