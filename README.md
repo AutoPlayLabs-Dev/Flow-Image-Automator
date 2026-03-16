@@ -26,7 +26,7 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 * **Content Downloader:** Easily batch-download your generated masterpieces with organized naming conventions.
 * **AI Prompt Creator:** Stuck for ideas? Use the built-in AI helper to expand simple words into detailed, high-performance prompts.
 
-![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/0ba6f002c641c10a39d785d5d87dd0e9088dca2b/fia3.png)  ()
+![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/0ba6f002c641c10a39d785d5d87dd0e9088dca2b/fia3.png)  ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/ae84eb865c77fc976858c62b21a6c94610ed46f9/fia4.png)
 
 ---
 
