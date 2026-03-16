@@ -11,6 +11,8 @@ Flow Image Automator – Bulk AI Image Generation for Google Labs  Automate your
 ## 🚀 About This Tool
 Flow Image Automator acts as a bridge between your creative ideas and AI generation platforms. It eliminates the repetitive task of manual prompt entry, allowing you to queue dozens of ideas and let the automation handle the rest.
 
+![image alt]() ![image alt]() 
+
 ## ✨ Key Features
 
 ### 🎨 Image Generation Modes
