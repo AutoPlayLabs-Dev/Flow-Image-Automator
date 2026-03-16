@@ -62,12 +62,12 @@ Best for: Scene-based storytelling, cinematic storyboards, or multi-frame animat
 
 ## 📖 How It Works
 
-1.  **Open the Side pannel:** Click the Flow icon in your browser.
-2.  **Select Your Mode:** Choose between Text-to-Image, Integration, or Paired modes.
-3.  **Build Your Queue:** Use the **AI Prompt Creator** or paste your own list of prompts and add the reference images into the **Queue Manager**.
-4.  **Run Automation:** Click **"Start Automation"**. The extension will navigate the generation platform and input your prompts automatically.
-5.  **Export:** Once finished, use the **Content Downloader** to save your files locally.
-
+1.  **Open the Side pannel:** Click the Flow Image Automator icon in your browser toolbar to open the side panel directly within your generation workspace.
+2.  **Select Your Mode:** Choose the method that fits your project: Text-to-Image, Integration mode, or Paired mode.
+3.  **Build Your Queue:** Use the AI Prompt Creator to generate high-quality prompts from simple ideas, or paste your existing lists. If using reference-based modes, upload your images into the Queue Manager to pair them with their corresponding prompts.
+4.  **Configure & Start:** Adjust your Processing Settings (such as model, aspect ratio, and stealth parameters) to your preference. Once everything is set, click "Start Automation" to trigger the engine. The extension will automatically handle prompt inputs, image uploads, and parameter selection.
+5.  **Run Automation:** Click **"Start Automation"**. The extension will navigate the generation platform and input your prompts automatically.
+6.  **Effortless Export:** Once the generation finishes, access your results through the Content Download Manager. Simply select your desired assets and download them in a single, organized batch.
 ---
 
 ## 💡 Best Practices
