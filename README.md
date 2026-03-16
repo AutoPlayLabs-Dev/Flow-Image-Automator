@@ -44,7 +44,7 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 
 1.  **Open the Side pannel:** Click the Flow icon in your browser.
 2.  **Select Your Mode:** Choose between Text-to-Image, Integration, or Paired modes.
-3.  **Build Your Queue:** Use the **AI Prompt Creator** or paste your own list of prompts into the **Queue Manager**.
+3.  **Build Your Queue:** Use the **AI Prompt Creator** or paste your own list of prompts and add the reference images into the **Queue Manager**.
 4.  **Run Automation:** Click **"Start Automation"**. The extension will navigate the generation platform and input your prompts automatically.
 5.  **Export:** Once finished, use the **Content Downloader** to save your files locally.
 
