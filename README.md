@@ -18,6 +18,11 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 ## ✨ Key Features
 
 ### 🎨 Image Generation Modes
+*Stop generating one by one. Our Bulk Generation Engine allows you to input hundreds of prompts simultaneously.
+Mass Input: Simply copy-paste your entire list of ideas or upload a formatted file.
+Streamlined Workflow: Once the prompts are loaded, select the Create Images option, and the extension will automatically cycle through the entire queue without further human intervention.
+Scalable Output: Perfect for creating asset packs, storyboards, or massive variations of a single concept in one session.*
+
 * **Text to Image:** Generate high-quality visuals using text prompts. Supports list uploads, copy-paste, and multi-line/JSON formats.
 * **Integration Mode:** Generate images by combining multiple reference images with custom prompts to maintain visual consistency.
 * **Paired Mode:** Assign specific, individual prompts to multiple reference images. Perfect for scene-based content, storytelling.
