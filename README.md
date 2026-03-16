@@ -18,14 +18,26 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 ## ✨ Key Features
 
 ### 🎨 Image Generation Modes
-*Stop generating one by one. Our Bulk Generation Engine allows you to input hundreds of prompts simultaneously.
-Mass Input: Simply copy-paste your entire list of ideas or upload a formatted file.
-Streamlined Workflow: Once the prompts are loaded, select the Create Images option, and the extension will automatically cycle through the entire queue without further human intervention.
-Scalable Output: Perfect for creating asset packs, storyboards, or massive variations of a single concept in one session.*
+*Stop generating one by one. Our Bulk Generation Engine allows you to input hundreds of prompts simultaneously. Simply copy-paste your entire list of ideas or upload a formatted file. Once the prompts are loaded, select the Create Images option, and the extension will automatically cycle through the entire queue without further human intervention. Perfect for creating asset packs, storyboards, or massive variations of a single concept in one session.*
 
-* **Text to Image:** Generate high-quality visuals using text prompts. Supports list uploads, copy-paste, and multi-line/JSON formats.
-* **Integration Mode:** Generate images by combining multiple reference images with custom prompts to maintain visual consistency.
-* **Paired Mode:** Assign specific, individual prompts to multiple reference images. Perfect for scene-based content, storytelling.
+####🧪 Generation Modes
+Each mode is optimized for specific creative requirements:
+
+* **Text to Image (Standard Batching):**
+
+Generate high-fidelity visuals directly from text.
+Flexibility: Fully supports single-line, multi-line, and JSON-formatted prompts for complex parameter control.
+Best for: Rapid prototyping and generating large sets of experimental variations.
+
+* **Integration Mode:**
+Combine multiple reference images with custom text or file prompts.
+Mechanism: The AI analyzes your reference images (styles, lighting, character features) and blends them with your prompt.
+Best for: Maintaining brand identity, ensuring consistent character likeness, or applying a specific aesthetic to new subjects.
+
+* **Paired Mode:**
+Assign a unique, individual prompt to each specific reference image.
+Precision: Flow Image Automator links your images and text in a one-to-one ratio, ensuring the AI focuses on exactly what you need for each specific asset.
+Best for: Scene-based storytelling, cinematic storyboards, or multi-frame animation preparation.
 
 ### 🛠️ Advanced Tools
 * **Prompt Queue Manager:** Organize and sequence your prompts. No more waiting for one image to finish before typing the next.
