@@ -35,7 +35,7 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 3.  **Pin the Extension:** Click the puzzle icon in your browser toolbar and pin **Flow Image Automator** for quick access.
 
 
- ![image alt]() 
+ ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/f8c33d1ea58e2783d7d8c9b8a7880cfe879f0791/fi5.PNG) 
 
  
 ---
