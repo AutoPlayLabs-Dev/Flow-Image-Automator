@@ -39,10 +39,10 @@ Precision: Flow Image Automator links your images and text in a one-to-one ratio
 Best for: Scene-based storytelling, cinematic storyboards, or multi-frame animation preparation.
 
 ### 🛠️ Advanced Tools
-* **Prompt Queue Manager:** Organize and sequence your prompts. No more waiting for one image to finish before typing the next.
-* **Start Automation:** One-click execution. Sit back while the tool processes your entire queue automatically.
-* **Content Downloader:** Easily batch-download your generated masterpieces with organized naming conventions.
-* **AI Prompt Creator:** Stuck for ideas? Use the built-in AI helper to expand simple words into detailed, high-performance prompts.
+* **Prompt Queue Manager:** The Processing Settings act as your central command hub for fine-tuning performance and output. Use Stealth Mode and Random Delay to mimic human behavior and avoid rate limits, while Auto Clear Cache optimizes memory to keep your browser fast during large-scale batches. With Auto Download, your assets are saved instantly, and you retain full creative control by globally configuring your preferred AI Model, Aspect Ratio, and Images per Prompt for a seamless, professional, and hands-free generation experience.
+* **Start Automation:** Transform your workflow into a hands-free experience with a single click. Once activated, Start Automation takes full control—automatically feeding prompts, uploading reference images, generating your visuals, and handling all downloads. By eliminating repetitive manual inputs and monitoring, this feature allows you to scale your production to hundreds of high-quality images effortlessly while you focus on your next creative breakthrough.
+* **Content Downloader:** Simplify your post-generation workflow with the Content Download Manager. This tool provides a centralized panel to view all your finished assets, allowing you to select and download hundreds of images in a single batch. By eliminating the need for individual saving, it ensures that managing large volumes of content is fast, organized, and effortless.
+* **AI Prompt Creator:** The AI Prompt Creator is your built-in brainstorming partner for overcoming creative blocks. This feature provides an extensive list of prompt ideas designed to inspire unique and high-quality visuals.
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/0ba6f002c641c10a39d785d5d87dd0e9088dca2b/fia3.png)  ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Image-Automator/blob/ae84eb865c77fc976858c62b21a6c94610ed46f9/fia4.png)
 
