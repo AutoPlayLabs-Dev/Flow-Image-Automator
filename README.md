@@ -1,9 +1,7 @@
 # Flow-Image-Automator
-Flow Image Automator – Bulk AI Image Generation for Google Labs  Automate your entire AI image creation workflow on Google Labs with Flow Image Automator. Generate hundreds or thousands of AI images automatically—no repetitive clicking, no manual downloads, no wasted time.
+**Flow Image Automator** is a powerful Chrome extension designed to streamline and automate your AI image generation workflow. Whether you are a digital artist, marketer, or hobbyist, Flow helps you manage complex prompts and automate the generation process across various modes.Bulk AI Image Generation for Google Labs  Automate your entire AI image creation workflow on Flow Image Automator. Generate hundreds or thousands of AI images automatically—no repetitive clicking, no manual downloads, no wasted time.
 
-**Flow Image Automator** is a powerful Chrome extension designed to streamline and automate your AI image generation workflow. Whether you are a digital artist, marketer, or hobbyist, Flow helps you manage complex prompts and automate the generation process across various modes.
-
-[![Add to Chrome Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/eiboocmincdlldgkkidfhaphhoohkoii?utm_source=item-share-cb)
+[![Add to Chrome Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-yellow?style=for-the-badge)](https://chromewebstore.google.com/detail/eiboocmincdlldgkkidfhaphhoohkoii?utm_source=item-share-cb)
 
 
 ---
