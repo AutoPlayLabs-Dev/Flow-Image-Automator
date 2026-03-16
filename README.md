@@ -26,6 +26,8 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 * **Content Downloader:** Easily batch-download your generated masterpieces with organized naming conventions.
 * **AI Prompt Creator:** Stuck for ideas? Use the built-in AI helper to expand simple words into detailed, high-performance prompts.
 
+![image alt]()
+
 ---
 
 ## 📥 Installation
