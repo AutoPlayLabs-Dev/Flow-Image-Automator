@@ -90,6 +90,7 @@ This tool is intended for personal and professional productivity. Users must com
 We are constantly improving! If you have questions or suggestions:
 
 * **Leave a Review:** [Chrome Web Store Reviews](https://chromewebstore.google.com/detail/eiboocmincdlldgkkidfhaphhoohkoii/reviews)
+* **Official Website:** [Autoplaylab.com](https://autoplaylabs.com/)
 
 ---
 *Created by the AutoPlayLabs Team.*
