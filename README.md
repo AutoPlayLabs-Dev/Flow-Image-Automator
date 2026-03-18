@@ -53,6 +53,8 @@ Best for: Scene-based storytelling, cinematic storyboards, or multi-frame animat
 
 ## 📥 Installation
 
+[![Watch the Flow Automator Intro](https://autoplaylabs.com/projects/flow-images-automator/)
+
 1.  **Visit the Store:** Go to the [Flow Image Automator Chrome Web Store page](https://chromewebstore.google.com/detail/eiboocmincdlldgkkidfhaphhoohkoii?utm_source=item-share-cb).
 2.  **Add to Chrome:** Click the "Add to Chrome" button. If prompted, confirm by clicking "Add extension" in the pop-up window.
 3.  **Pin the Extension:** for quick access. Once installed, click the Extensions icon (represented by a puzzle piece in the top-right corner of Chrome) and click the Pin icon next to Flow Image Automator. This adds it to your toolbar for instant access.
