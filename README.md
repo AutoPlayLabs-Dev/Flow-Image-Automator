@@ -20,7 +20,7 @@ Flow Image Automator acts as a bridge between your creative ideas and AI generat
 ### 🎨 Image Generation Modes
 *Stop generating one by one. Our Bulk Generation Engine allows you to input hundreds of prompts simultaneously. Simply copy-paste your entire list of ideas or upload a formatted file. Once the prompts are loaded, select the Create Images option, and the extension will automatically cycle through the entire queue without further human intervention. Perfect for creating asset packs, storyboards, or massive variations of a single concept in one session.*
 
-####🧪 Generation Modes
+#### 🧪 Generation Modes
 Each mode is optimized for specific creative requirements:
 
 * **Text to Image (Standard Batching):**
